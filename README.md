@@ -15,20 +15,23 @@ Faker: The faker package (version 2.1.0) is used to generate fake data, facilita
 
 Random Images: Random user profile images are sourced from 'https://thispersondoesnotexist.com' to simulate user avatars and enhance the app's visual appeal.
 
-Installation
+**Installation
+** 
 To run this Flutter project on your local machine, follow these steps:
 
-Clone the Repository:
+**Clone the Repository:
+**
 git clone https://github.com/br7tutorial/Telegram-App-Clone.git
 cd Telegram-App-Clone
 
 
 
-Install Dependencies:
+**Install Dependencies:
+**
 flutter pub get
 
-
-Run the Application:
+**Run the Application:
+**
 flutter run
 
 

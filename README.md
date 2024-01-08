@@ -1,4 +1,4 @@
-Telegram Clone
+                                  Telegram Clone
 This Flutter project is a clone of the Telegram app, developed by Biruk (br7tutorial). The aim of this project is to replicate the functionality and design of the Telegram messaging application using Flutter and Dart programming language.
 
 <img src="https://github.com/birukbr7/Telegram-Clone-by-biruk-br7/assets/106627959/a736daee-e685-4e03-854d-4a364b5aa359" width =200 />
